@@ -7,6 +7,8 @@ This section contains a list of resources used in this project.
 - [Glide](https://github.com/bumptech/glide): An easy-to-use and efficient Android image management library.
 - [Retrofit](https://square.github.io/retrofit/): A type-safe HTTP client for Android and Java by Square.
 
+# APK File
+https://drive.google.com/drive/folders/1cbGR4_4-yWRXmmxkJUyKZAZEpKEoVGTJ?usp=sharing
 
 # User Interfaces
 ![1](https://github.com/RizkyHertama/mostransTest-Kotlin/assets/81372683/c1a878d8-7585-4eb1-bf06-cd36c2255686)
